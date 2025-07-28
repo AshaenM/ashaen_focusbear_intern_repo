@@ -29,13 +29,33 @@ Subjective opinions:
 - Less reliable for making design decisions
 
 ## How do you prioritize user feedback when multiple users have conflicting requests?
-
-
+- Look for common patterns or themes shared by many users
+- Prioritize feedback that aligns with core user needs and goals
+- Consider business goals and technical feasibility
+- Use data (e.g., usage metrics, test results) to inform decisions
+- Engage stakeholders to weigh trade-offs and impacts
+- Consider offering customization options if conflicts can’t be reconciled
+- Test solutions with users to validate the chosen approach
 
 ## If one user complains about a feature but others like it, how should UX handle it?
-
+- Evaluate if the complaint reflects a widespread issue or an edge case
+- Consider impact severity. Check if it significantly affects usability
+- Check if the user misunderstood the feature or needs better guidance
+- Explore if customization or opt-out options can address the concern
+- Monitor feedback over time to see if more users report similar problems
+- Communicate transparently with the user about your findings and any planned changes
 
 ## How can patterns in feedback help identify real UX issues?
-
+- Repeated comments highlight common pain points affecting many users
+- Patterns reveal underlying causes rather than isolated incidents
+- Help prioritize issues that impact overall user experience
+- Enable designers to focus on fixing root problems, not symptoms
+- Support data-driven decisions by showing what matters most to users
+- Identify opportunities for improving workflows or features
 
 ## What are the risks of making changes based on limited or unverified feedback?
+- Wasting time on issues that affect few users
+- Creating new problems or confusion unintentionally
+- Ignoring bigger, more common user needs
+- Causing inconsistent or conflicting design changes
+- Lowering overall user satisfaction if changes don’t help
