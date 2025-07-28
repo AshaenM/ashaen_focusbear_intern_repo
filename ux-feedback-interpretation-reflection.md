@@ -1,0 +1,41 @@
+# Interpreting User Feedback & Usability Testing Insights
+
+## What are common methods for analyzing usability test results?
+- Thematic analysis: Group similar issues or feedback into themes
+- Task success rate: Measure how many users complete tasks correctly
+- Time on task: Track how long users take to finish tasks
+- Error frequency: Count mistakes or misunderstandings
+- User satisfaction ratings: Collect qualitative or quantitative feedback
+- Heatmaps or click tracking: Visualize where users focus or interact
+- Compare before/after designs: Assess improvements over iterations
+
+## How can UX designers avoid bias when interpreting feedback?
+- Focus on what users say and do, not assumptions
+- Look for patterns across multiple users, not isolated comments
+- Use neutral language when summarizing feedback
+- Be aware of personal preferences and set them aside
+- Validate interpretations with team discussions
+- Refer back to research goals and user needs to stay objective
+
+## What’s the difference between actionable insights vs. subjective opinions?
+Actionable insights:
+- Based on user data or observed behavior
+- Clearly linked to specific problems or opportunities
+- Provide guidance for concrete design changes
+
+Subjective opinions:
+- Based on personal preferences or feelings
+- May lack evidence or consistency
+- Less reliable for making design decisions
+
+## How do you prioritize user feedback when multiple users have conflicting requests?
+
+
+
+## If one user complains about a feature but others like it, how should UX handle it?
+
+
+## How can patterns in feedback help identify real UX issues?
+
+
+## What are the risks of making changes based on limited or unverified feedback?
