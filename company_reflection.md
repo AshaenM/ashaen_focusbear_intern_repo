@@ -15,4 +15,8 @@ This mission is important because it solves problems several people face day to 
 I enjoy developing unique and orignal apps that solve real problems and I believe Focus Bear does exactly this.
 
 ## Do you personally relate to any of the challenges that Focus Bear aims to solve?
-Although I am not a neurodiveregent individual, I sometimes procrastinate on university assignments and end up rushing through them in the last minute. Hence, I believe that by using this App, it'll help me reduce my distractions and get productive work done daily.
+Although I am not a neurodiveregent individual, I sometimes procrastinate on university assignments and end up rushing through them in the last minute. Hence, I believe that by using this App, it'll help me reduce my distractions and get productive work done daily. I personally find the "Super Strict Mode" of the Focus Bear App a really powerful feature for when I really can't afford to procrastinate on some work.
+
+![Screenshot of SUper Strict Mode](image-10.png)
+
+This, along with the normal focus mode will definetly help stay focused on completing my assignments in the coming weeks.
