@@ -35,5 +35,11 @@ As a UX Designer, I think the sprint planning ceremony is the most important.
 - It provides a chance to advocate for user research or design tasks needed in the sprint.
 - Early involvement helps avoid last-minute changes and rework, making my workflow smoother and more predictable.
 
+## Attend a stand-up meeting and observe how updates are shared.
+
+- I attended a stand-up meeting today (04th August 2025) at 9.30am online via Google Meet. This was with the UX team and we discussed updates from each one of us in the meeting on what we have been working on the past week. The screenshot below shows the notes the AI took down during the stand-up meeting I joined.
+
+- ![Screenshot of summary of notes](image-9.png)
+
 ## Document one change you can make to improve your team collaboration.
 I can schedule brief, regular design check-ins with developers and product managers during the sprint. This ensures ongoing alignment, quick feedback, and helps catch issues early—reducing misunderstandings and improving workflow.
