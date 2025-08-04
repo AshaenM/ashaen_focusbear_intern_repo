@@ -38,5 +38,17 @@ I will always have strong unique passwords so if one password is exposed, it won
 ## What would you do if you suspected a security breach or suspicious activity on your account?
 I would immediately change my password to a strong, completely different password and ensure 2FA is set up. I would also report the issue to my IT team to ensure it is investigated and to reduce the risk of data breaches.
 
+## Ensure your work accounts have strong passwords and enable 2FA where possible.
+
+- I have attached below a screenshot of my work account having 2FA enabled.
+
+- ![Screenshot of 2FA being enabled](image-6.png)
+
+## Review your password storage method—if you’re not using a password manager, consider setting one up.
+
+- I have attached below a screenshot of my work account having Google Password Manager manage my passwords for some accounts.
+
+- ![Screenshot of Google Password Manager](image-7.png)
+
 ## Document one new cyber security habit you will follow at Focus Bear.
 I will make it a habit to lock my computer every time I step away from my desk, even if it’s just for a few minutes. I tend to avodi doing this but will ensure to make it a habit from today.
