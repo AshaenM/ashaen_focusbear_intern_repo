@@ -42,5 +42,17 @@ I can use it as a supportive tool to assist me in tasks rather than relying on i
 - Before enterring my prompt, I will read everything to ensure sensitive data is not included
 - I will only use temporary chats so that no data is remembered.
 
+## Identify one task you can improve using an AI tool, and try it out.
+
+- While creating a low-fidelity wireframe for one of my other tasks, I accidentally resolved one of my own comments and wasn't sure how to get them back. So I asked ChatGPT to help me get them back. I've attached a screenshot below:
+
+![Screenshot of ChatGPT prompt](image-5.png)
+
+- This prompt provided an easy to follow answer that helped me unresolve it.
+
+## Review the AI-generated output critically—did it require editing or fact-checking?
+
+- It didn't require editing but for fact-checking I was able to automatically do it as I followed along with the steps and it was exactly right. It perfectly described how to reopen the comment with descriptions of where I can find the relevant options such as the comment panel.
+
 ## Document one best practice you will follow when using AI tools at Focus Bear.
 I will ensure to be very careful when writing prompts to not include any sensitive data.
