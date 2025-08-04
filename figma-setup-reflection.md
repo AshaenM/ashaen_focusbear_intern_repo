@@ -29,6 +29,8 @@ What makes it unique:
   - Components are elements we can reuse across our designs.
   - They help to create and manage consistent designs across projects.
   - When you update one of them once, the changes reflect everywhere.
+  - The screenshot below shows a component button I've created:
+  - ![Screenshot of button component](image-12.png)
 
 - Variants
   - Variants allow us to group and organize similar components into a single container.
@@ -36,6 +38,12 @@ What makes it unique:
 
 - Auto-Layout
   - Auto layout can be used on frames so that designs will respond dynamically to content changes, saving us time and making our designs responsive and adaptable.
+
+  - The screenshot below shows my recent project where I used auto-layout for the bottom navigation bar:
+
+  - ![Screenshot of auto layout](image-11.png)
+
+  - I learnt this feature through a LinkedIn course and was able to thoroughly understand it and realise how powerful a tool it is.
 
 Together, they save time, ensure consistency, and simplify handoffs.
 
