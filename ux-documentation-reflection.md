@@ -47,6 +47,10 @@ I would have a separate document for this session with the following details:
 - Recommendations
 - Next steps
 
+I recently conducted a ux usability testing session with my friends and documented my findings on md file. I shared these with my supervisor and founder of the company and he moved my document a Google Docs file. An excerpt of my ux usability test report can be seen below:
+
+![Excerp of UX Usability Test Report](image-13.png)
+
 ## How can a well-structured UX document help prevent miscommunication between teams?
 - It provides a single document of reliable facts everyone can refer to.
 - It clearly outlines the design rationale, goals, and user needs.
