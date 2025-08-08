@@ -107,3 +107,5 @@ Separate observations (what happened) from interpretations (why it happened).
 
 - Be Aware of Confirmation Bias:
 Stay open to feedback that challenges your assumptions or design preferences.
+
+- I recently conducted an UX Usability Test Session on my friend asking him to set up a focus sesion on the Focus Bear App as a new user. This was for one of my later tasks in my onboarding. While he was setting it up I quietly observed how easy or hard he felt navigating through the app. I noted down any useful points while he used the app. At the end, I asked questions that helped me understand how he felt setting up the focus session. During the session, he asked me for help sometimes but most of the time I was able to resist from helping him.
