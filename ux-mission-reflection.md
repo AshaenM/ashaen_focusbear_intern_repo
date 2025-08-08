@@ -63,3 +63,9 @@ Intuitive Interface:
 - Positive reinforcement: Motivates without shame or pressure
 - Clear, consistent navigation: Lowers cognitive load and increases ease of use
 - Inclusive tone and visuals: Designed to be supportive, not overwhelming
+
+I had a friend who was autistic and needed help concentrating while doing homework in school. At the time, there weren't many productivity apps that suited his needs. If there was an app that simply let him start a focus session with a timer and some motivation text, he would have helped him a lot. Right now, the Focus Bear App has a very good focus mode section.
+
+![Screenshot of Focus Mode on the Focus Bear App](image-15.png)
+
+I really like the big timer and the brain dump section where we can easily right any distracting thoughts while focusing and review them later.
