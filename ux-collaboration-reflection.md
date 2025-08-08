@@ -45,6 +45,7 @@
 - Communication breakdowns leading to misunderstandings
 - Frustration or low morale among team members
 - Compromised product quality due to rushed decisions
+- I personally experienced similar issues last semester in my capstone project in uni. We had two UX designers and two developers. One of the designers used high resolution, full-width images that look really nice on all screen sizes. The mockups looked beautiful in Figma too. But the developers focused on performance and wanted the app to load fast so we concluded by agreeing that prioritising performance over the appearance.
 
 ## If a developer modifies a UX design due to technical limitations, how should a UX designer respond?
 - Stay open-minded and understand the technical constraints
