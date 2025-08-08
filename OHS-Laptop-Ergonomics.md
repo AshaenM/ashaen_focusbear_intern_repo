@@ -48,4 +48,8 @@
 A laptop stand could improve my posture because I am tall person and my screen is below my eye level than the average person.
 
 ## Document at least one workspace change or habit adjustment you made.
-I will use the Focus Bear app and website to remind me to take breaks.
+At home I have my PC which has an external keyboard and the whole set up is at my eye level.
+
+![Picture of home work set up](image-14.png)
+
+I will use the Focus Bear app and website to remind me to take breaks. While working at home, I was on focus mode and I got a reminder to move around for 1 minute, I also got a similar reminder to do push ups. This is good for my eyes as well as my wellbeing
