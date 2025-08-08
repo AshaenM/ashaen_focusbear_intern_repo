@@ -59,3 +59,9 @@ Subjective opinions:
 - Ignoring bigger, more common user needs
 - Causing inconsistent or conflicting design changes
 - Lowering overall user satisfaction if changes don’t help
+
+## Personal Example: Interpreting Conflicting User Feedback
+
+During a group project, we had people from another group test our job applying app and they said the "Save Job" button was hard to find. One person suggested moving it to the top while another said to make it bigger at the bottom. At first, this seemed like conflicting feedback, but we noticed majority of them hesitated before finding the button.
+
+We changed the icon to a clear "Save Job" Button and placed it where the thumb naturally rests on mobile. The following week, we showed the same group and no one struggled to find it. That showed us the real issue wasn’t placement, it was clarity.
