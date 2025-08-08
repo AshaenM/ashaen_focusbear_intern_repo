@@ -87,3 +87,14 @@
 - Use flexible layouts and reusable components
 
 - Document trade-offs and revisit when resources allow
+
+## Hypothetical Example: Handling a Design Constraint
+
+In a student project, I designed a progress dashboard with animated graphs to motivate users. During a developer review, I learned that the animations would cause performance issues on lower-end devices and delay development.
+
+To keep the core user goal: clear progress tracking, I simplified the design:
+
+- Replaced animations with static visuals
+- Showed key stats upfront, with an option to view more details
+
+This compromise kept the experience smooth and focused on user needs, while staying within technical limits. It taught me how to prioritize function over flash and work collaboratively with developers.
