@@ -81,3 +81,15 @@
 - Include real-user stories or pain points from support tickets
 
 - Quantify the cost of inaction (e.g., time wasted, user loss)
+
+## Hypothetical Example: Advocating for UX Improvements with a PM
+In a hypothetical internship project, our team was building a learning app. I noticed from usability testing that several users struggled to find the “Resume Lesson” button as it was buried low on the dashboard.
+
+When I brought it up, the PM said we didn’t have time to change the layout that sprint. To advocate for it, I showed:
+
+- A screen recording of a user missing the button twice
+- The task failure rate from testing
+- A quick mockup showing how a repositioned button would improve visibility without major redesign
+- I suggested a small, time-boxed tweak, moving the button higher and increasing its contrast. The PM agreed to add it to the next sprint as a quick win, and it later became one of the most-used elements on the page.
+
+This showed how framing UX work in terms of user behavior and minimal dev effort helped get it prioritized.
