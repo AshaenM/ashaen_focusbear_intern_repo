@@ -56,3 +56,11 @@ Why it’s crucial:
 - Keep sessions time-boxed to avoid fatigue
 - Foster a safe, supportive environment where everyone feels heard
 - Follow up with actionable next steps after the session
+
+## Personal Story: Receiving Critique That Challenged My Assumptions
+
+Last year, I had to develop a simple archery scoring system on a website. I put in a lot of effort in choosing multiple colours for each number and other buttons that would outline's its effect on the score. For example, I put numbers 1,2,3,4 to be different shades of red to signify low scores. I showed this to my tutor and she said there was too many different colours on the page although a lot of them were similar. 
+
+At first, I felt defensive. I had put a lot of thought into the design. But instead of reacting, I asked her to give a suggestion and she said to have consisten colours for all numbers regardless of the effect it has. 
+
+I ended up following her advice and in the end, I liked the page more than earlier as it looked more professional.
