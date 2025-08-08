@@ -203,3 +203,11 @@ Wireframes are a powerful communication tool that help bridge gaps between UX de
 
 5. “Skipping wireframes can increase the risk of rework.”
 - Without validating layout and flow first, we risk designing something that looks great but doesn’t actually work well for users—or has to be rebuilt to fix core issues.
+
+## Personal story
+
+Recently, I started working on a low-fidelity wireframe in Figma for a new feature that allows users to switch between light and dark themes within the app—independent of their device settings. This was based on user feedback where some expressed wanting more control over the app’s appearance, especially for different lighting conditions.
+
+![Screenshot of wireframe](image-19.png)
+
+Creating this wireframe helped me visualize the user flow and assess whether accessing this feature would feel intuitive.
