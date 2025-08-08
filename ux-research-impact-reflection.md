@@ -56,3 +56,7 @@
 - Low adoption or engagement: Users may abandon the product
 - Biased design: Reflects designer’s preferences, not users’ reality
 - Rework: More changes needed later to fix preventable problems
+
+## Personal Reflection on how UX research informs design
+
+Last semester, for our capstone project, we were each required to create high fidelity prototypes for a mobile app. Once we completed them, we each showed them to each other and discussed them. We were able to identify a lot of features that could be designed better. In the end, without modifying them, we showed them to our client and he also pointed out similar issues and suggested better fixes. Then, we went back to our designs and redid them and showed improved ones next week. This experience really solidified the idea that UX research isn’t just a formality — it can totally reshape the direction of a product for the better. If we had not showed the client or discussed them between ourselves and moved straight to development,, we probably would’ve had to redevelop a lot of features which would have not been very fun.
