@@ -55,3 +55,9 @@
 - Offering reminders and gently prompts
 - Using clear and readable font
 - Allowing personalisation
+- Below are screenshots from the Focus Bear app that show how it helps neurodivergent users.
+- ![Screenshot of how to set up a focus mode](image-18.png)
+- Its a very easy to understand UI, with a goal name, timer, and start button with an optional super strict mode checkbox.
+- ![Screenshot of focus mode screen](image-17.png)
+- Its a simple and easy to understand UI, with simple language and font.
+- 
