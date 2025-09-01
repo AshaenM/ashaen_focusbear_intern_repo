@@ -112,3 +112,24 @@ They are useful because they:
 - Poor labeling or annotation: Lack of clear notes or explanations can confuse developers and other team members.
 
 - Not iterating enough: Treating wireframes as final rather than evolving them through multiple feedback cycles can limit design quality.
+
+## Task
+
+Using the ux-usability-test-report, I decided to address the issue where the app lacks a setting option to change the theme of the app. Using research methods, I learnt that neurodivergent individuals prefer to have customisation options to the app and hence, I proposed a low-fi design that addresses this concern as shown in the below screenshot:
+
+![Screenshot of first iteration of the low-fi design](image-22.png)
+
+The founder included a comment saying it looks good but my supervisor suggested some changes. Hence, I redesigned an updated wireframe in the next iteration as shown below:
+
+![Screenshot of second interation of the low-fi design](image-23.png)
+
+This time, the supervisor was happy and in our stand-up meeting, she asked me to start working on a high-fi prototype. The image below shows the AI's notes of our meeting:
+
+![Screenshot of AI's summary of my work](image-24.png)
+
+This confirmed that the supervisor was happy with my work and that I can move on to a clickable high-fi prototype.
+
+The link to my Figma design can be found here:
+https://www.figma.com/design/Ao9BH0MbUsXtFwwOoEIvZX/Focus-Bear-App?node-id=0-1&t=FxAM7InDpLXCfMQR-1
+
+
