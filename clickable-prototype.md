@@ -129,3 +129,23 @@ Stakeholder Feedback
 - Poor organization: Having messy or unlinked screens that make the prototype hard to navigate.
 
 - Relying solely on prototypes: Forgetting to supplement with documentation or annotations for developers.
+
+## Task
+
+Using the low fidelity prototype I designed earlier that got approved by my supervisor, I moved on to designing a clickable prototype. The link to my figma design can be found here:
+
+https://www.figma.com/design/Ao9BH0MbUsXtFwwOoEIvZX/Focus-Bear-App?node-id=224-364&t=5wqn8UCyoPD5GJx9-0
+
+I submitted my design on our Discord group requesting for feedback:
+
+![Screenshot of my discord message asking for feedback](image-25.png)
+
+I received multiple comments with feedback as shown below:
+
+![Screenshot of comment icons](image-26.png)
+
+In the stand-up meeting, my supervisor approved my design and said I can move on to a high fidelity design. The image below shows the AI notetaker's notes on my work.
+
+![Screenshot of instructions given to me](image-27.png)
+
+This confirms that my supervisor has approved of my work and now I will start working on a high fidelity prototype.
