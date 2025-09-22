@@ -32,3 +32,12 @@ Tasks are moved from left to right through the columns as they progress and each
 ## Identify one way you can improve task tracking in your role.
 I can use a Kanban board to break design work into smaller, clearly labeled tasks.
 
+## Personal Reflection
+
+Kanban boards lets me easily see an overview of all tasks that are in the backlog, in progress, blocked, and done. I've attached screenshots of moving one of my most recent tasks from the in-progress section to the done section.
+![Screenshot of my tasks in the in-progress section](image-28.png)
+![Screenshot of my task being moved to the done section](image-29.png)
+
+When I moved the task on the Focus Bear board, I noticed how satisfying it was to see the progress visually represented. It made the completion feel more happy and also gave me clarity on what still needed my attention. One thing I found helpful was how the structure made it obvious when multiple tasks were piling up in “In Progress,” which was a signal to focus and finish rather than start something new.
+
+Looking ahead, I can improve task tracking by consistently breaking larger pieces of work—like design iterations, testing feedback, into smaller tasks with clear labels. This will not only make it easier for me to see steady progress but also make collaboration smoother if I’m working with others.
