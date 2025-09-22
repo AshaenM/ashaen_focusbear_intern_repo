@@ -46,39 +46,58 @@
 Upon reviewing the user testing session, here are a prioritized list of 8 UX improvements, considering likely business and technical constraints. I’ve grouped them into High Feasibility / Quick Wins and Medium/Low Feasibility / Larger Effort.
 
 ### High Feasibility / Quick Wins
-1. **Clarify confusing permission screens**  
-   - Fix the “Allow notifications” flow so tapping “Allow” triggers the correct action.  
-   - Minimal dev effort; prevents early drop-off during onboarding.
 
-2. **Simplify habit editing UI (icons)**  
-   - Standardize icons for edit, delete, and info.  
-   - Mostly front-end work; reduces user confusion.
+1. Clarify confusing permission screens
+- **Issue:** The “Allow notifications” flow was confusing; the “Allow” button wasn’t clickable, only “Continue” worked.  
+- **Example:** Pavel: *“I don’t understand that. What’s rate no more? Okay. So it looks clickable. I don’t know. Okay, I understand it’s not clickable…”* (8:14)  
+- **Impact:** Prevents early drop-off during onboarding.
 
-3. **Clarify blocking rules and timing**  
-   - Ensure consistent messaging for blocking schedules (e.g. 5 PM vs. 10 PM).  
-   - Medium dev effort; mainly UI text adjustments.
+2. Simplify habit editing UI (icons)
+- **Issue:** Red “X” and pencil icons were confusing; unclear whether tapping deletes or edits.  
+- **Example:** Pavel: *“Slightly confused about ‘i’ with growth. I usually think it means information, but it has growth… did not delete so it was kind of scary to tap the red cross.”* (12:42)  
+- **Solution:** Standardize iconography.
 
-4. **Increase tap target sizes (accessibility)**  
-   - Enlarge buttons/icons to meet accessibility guidelines and avoid app store warnings.  
+3. Clarify blocking rules and timing
+- **Issue:** Confusion between “block after 5 PM” and “block after 10 PM.”  
+- **Example:** Pavel: *“I was told after 5 PM everything will be blocked… now it says after 10 PM they will be blocked, so now I’m not sure.”* (18:09)  
+- **Solution:** Ensure labels and timing logic are consistent.
+
+4. Increase tap target sizes (accessibility)
+- **Issue:** Buttons/icons were too small; could trigger app store warnings.  
+- **Example:** Pavel: *“It becomes quite small, so you might even get a warning from Google, your control is too small.”* (15:55)  
+- **Solution:** Enlarge interactive elements to meet accessibility guidelines.
 
 ---
 
 ### Medium Feasibility / Some Effort Required
-5. **Explain features before asking for user input (onboarding carousel)**  
-   - Add a feature preview carousel before goal selection.  
-   - Requires new screens/components and some dev integration.
 
-6. **Reduce cognitive load in goal-setting (predefined goals)**  
-   - Provide suggested goals with optional custom entry.  
-   - Some backend integration for goal tracking may be needed.
+5. Explain features before asking for user input (onboarding carousel)
+- **Issue:** User asked for guidance before filling out free-text goals.  
+- **Example:** Pavel: *“Instead my initial mode was kind of, what is this? What can you offer? How does it work? But now you turn tables and ask me what they want to achieve.”* (11:18)  
+- **Solution:** Add an intro carousel showing key features (habit tracking, app blocking, focus sessions).
 
-7. **Align goals with suggested habits**  
-   - Map user-selected goals to relevant habits.  
-   - High impact but requires backend logic changes.
+6. Reduce cognitive load in goal-setting (predefined goals)
+- **Issue:** Free-text goals felt overwhelming; Pavel skipped typing and just entered a space.  
+- **Example:** *“I’m not sure… usually I just skip this. Sorry, but it’s fine.”* (11:47)  
+- **Solution:** Offer suggested goals with optional custom entry.
+
+7. Align goals with suggested habits
+- **Issue:** User’s goal “Improve eye health” didn’t match the suggested habits.  
+- **Example:** Pavel: *“By the time I already forgot that I said it was a goal, by the time I got to the point of habits.”* (33:28)  
+- **Solution:** Map goals → relevant habits in backend logic.
 
 ---
 
 ### Lower Feasibility / Larger Effort / Optional
-8. **Address paternalistic tone (bear themes, friendly modes)**  
-   - Add themed bears, friendly language, and optional modes.  
-   - Involves design assets, animations, and dev effort; nice-to-have for engagement.
+
+8. Address paternalistic tone (bear themes, friendly modes)
+- **Issue:** App felt like a strict parent.  
+- **Example:** Pavel: *“Instead of the app being my tool that helps me, it becomes a master or a strict parent.”* (24:57)  
+- **Solution:** Offer optional bear-themed personas, lighter language, and friendlier notifications.
+
+---
+
+**Summary:**  
+- **Quick wins:** Permissions, icons, blocking labels, tap targets.  
+- **Medium effort:** Onboarding carousel, predefined goals, habit alignment.  
+- **Larger effort:** Bear-themed friendly modes.
