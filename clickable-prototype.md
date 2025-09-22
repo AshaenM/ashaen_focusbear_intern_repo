@@ -1,151 +1,118 @@
-# Creating a Clickable Prototype in Figma
+# Creating a Clickable Prototype in Figma  
+
+## What is the difference between a static wireframe and an interactive prototype?  
+
+**Static Wireframe**  
+- Non-interactive: Just a set of fixed images or sketches showing layout and structure.  
+- Focus: Visualizing content placement, hierarchy, and basic page elements.  
+- Use: Early-stage planning, communicating design concepts, and gathering feedback on layout.  
+- Example: A grayscale sketch showing where buttons, text, and images go, but you can’t click or navigate.  
+
+**Interactive Prototype**  
+- Interactive: Simulates user interactions like clicking buttons, navigating between screens, or filling forms.  
+- Focus: Testing user flows, navigation, and overall experience.  
+- Use: Usability testing, stakeholder demos, and refining the design before development.  
+- Example: A clickable mockup where users can go through tasks as if using the real product.  
+
+## How does prototyping help validate usability before development?  
+- Simulates real user interactions.  
+- Identifies usability issues early.  
+- Validates user flows.  
+- Gathers actionable feedback.  
+- Reduces development risks.  
+- Supports iterative design.  
+
+## Key Features of Figma Prototyping Tools  
+- Interactive hotspots.  
+- Transitions and animations.  
+- Device frames and scrolling.  
+- Overlays and modals.  
+- Interactive components.  
+- Linking between frames.  
+- Preview and sharing.  
+- User flow mapping.  
+
+## How do designers use prototypes for usability testing and stakeholder feedback?  
+
+**Usability Testing**  
+- Simulate user tasks.  
+- Observe behavior.  
+- Gather qualitative feedback.  
+- Identify pain points early.  
+- Test different versions.  
+
+**Stakeholder Feedback**  
+- Visualize concepts.  
+- Demonstrate user flows.  
+- Facilitate clear communication.  
+- Incorporate suggestions.  
+- Build confidence.  
+
+## What usability issues can a clickable prototype reveal that a static wireframe cannot?  
+- Navigation problems.  
+- Interactive element clarity.  
+- User flow efficiency.  
+- Feedback and states.  
+- Discoverability of features.  
+- Timing and pacing.  
+- Error handling.  
+- Responsiveness.  
+
+## How can prototyping help designers communicate ideas more clearly to developers?  
+- Demonstrates functionality.  
+- Clarifies user flows.  
+- Highlights edge cases.  
+- Shows animations and transitions.  
+- Provides a shared reference.  
+- Speeds up feedback loops.  
+- Reduces assumptions.  
+
+## Common Mistakes Designers Make When Creating Prototypes  
+- Overcomplicating early prototypes.  
+- Ignoring user goals.  
+- Skipping key interactions.  
+- Not testing with real users.  
+- Using unrealistic content.  
+- Neglecting accessibility.  
+- Not updating prototypes after feedback.  
+- Poor organization.  
+- Relying solely on prototypes.  
+
+---
+
+## Task  
+
+Using the low-fidelity wireframe I designed earlier that got approved by my supervisor, I moved on to designing a clickable prototype.  
+
+**Figma Prototype Link:**  
+[Focus Bear Clickable Prototype](https://www.figma.com/design/Ao9BH0MbUsXtFwwOoEIvZX/Focus-Bear-App?node-id=224-364&t=5wqn8UCyoPD5GJx9-0)  
+
+---
+
+## Feedback and Iteration  
+
+I submitted my design on our **Discord group** requesting feedback:  
+![Screenshot of my Discord message asking for feedback](image-25.png)  
+
+I received multiple comments on my Figma file as shown below:  
+![Screenshot of comment icons](image-26.png)  
+
+In our stand-up meeting, my supervisor approved the prototype and asked me to move on to a high-fidelity design:  
+![Screenshot of instructions given to me](image-27.png)  
 
-## What is the difference between a static wireframe and an interactive prototype?
+**Changes made based on feedback:**  
+- Adjusted button placement for better accessibility.  
+- Simplified navigation flow to reduce confusion.  
+- Refined spacing and alignment based on supervisor suggestions.  
 
-Static Wireframe
-- Non-interactive: Just a set of fixed images or sketches showing layout and structure.
+---
 
-- Focus: Visualizing content placement, hierarchy, and basic page elements.
+## Personal Reflection  
 
-- Use: Early-stage planning, communicating design concepts, and gathering feedback on layout.
+Working on this clickable prototype helped me see the difference between having a design on paper versus experiencing it interactively. I noticed that when I shared the prototype with the team, the feedback was much more concrete—people clicked through flows and quickly spotted where things felt unclear.  
 
-- Example: A grayscale sketch showing where buttons, text, and images go, but you can’t click or navigate.
+The Discord feedback highlighted small details (like button placement and spacing) that I might not have caught otherwise. These were easy to fix at this stage, and I learned how prototyping uncovers practical usability issues that static designs can’t show.  
 
-Interactive Prototype
-- Interactive: Simulates user interactions like clicking buttons, navigating between screens, or filling forms.
+The supervisor’s approval in the stand-up confirmed I was on the right track and gave me confidence to move forward with a high-fidelity design. Going forward, I see prototyping not only as a validation tool but also as a way to communicate my ideas clearly with both developers and stakeholders.  
 
-- Focus: Testing user flows, navigation, and overall experience.
-
-- Use: Usability testing, stakeholder demos, and refining the design before development.
-
-- Example: A clickable mockup where users can go through tasks as if using the real product.
-
-## How does prototyping help validate usability before development?
-
-- Simulates real user interactions: Prototypes allow users to click, navigate, and complete tasks, closely mimicking the final experience.
-
-- Identifies usability issues early: Testing a prototype reveals navigation problems, confusing workflows, or missing features before costly coding begins.
-
-- Validates user flows: Prototyping checks if users can accomplish their goals efficiently and intuitively.
-
-- Gathers actionable feedback: Observing users interact with the prototype helps designers understand pain points and areas for improvement.
-
-- Reduces development risks: Early validation lowers the chance of building features that don’t meet user needs or cause frustration.
-
-- Supports iterative design: Prototypes can be quickly adjusted based on feedback, refining usability continuously.
-
-## What are the key features of Figma’s prototyping tools?
-
-- Interactive hotspots: Create clickable areas on frames to simulate navigation and user interactions.
-
-- Transitions and animations: Add smooth animated transitions between screens (e.g., slide, dissolve, smart animate).
-
-- Device frames and scrolling: Preview prototypes in device frames and simulate vertical/horizontal scrolling.
-
-- Overlays and modals: Design pop-ups or dropdowns that appear over the main screen.
-
-- Interactive components: Use components that can change state (e.g., toggles, buttons) within prototypes.
-
-- Linking between frames: Easily connect different screens to build user flows.
-
-- Preview and sharing: View prototypes live in the browser or share a link with stakeholders for feedback.
-
-- User flow mapping: Visualize and organize navigation paths within the design file.
-
-## How do designers use prototypes for usability testing and stakeholder feedback?
-
-Usability Testing
-- Simulate user tasks: Prototypes let testers interact with the design by clicking buttons, navigating screens, and completing workflows—mimicking real product use.
-
-- Observe behavior: Designers watch how users navigate, where they struggle, and which parts cause confusion or errors.
-
-- Gather qualitative feedback: Test participants share their thoughts on ease of use, clarity, and overall experience.
-
-- Identify pain points early: Usability issues can be detected and addressed before costly development.
-
-- Test different versions: Prototypes allow quick iteration and A/B testing of design alternatives based on user responses.
-
-Stakeholder Feedback
-- Visualize concepts: Prototypes provide a tangible, interactive representation of the product vision beyond static images or descriptions.
-
-- Demonstrate user flows: Stakeholders can experience how users will move through the product, making it easier to understand features and functionality.
-
-- Facilitate clear communication: Interactive prototypes reduce misunderstandings and align expectations across teams.
-
-- Incorporate suggestions: Stakeholders can give precise, informed feedback that designers can quickly incorporate into the prototype.
-
-- Build confidence: Seeing and interacting with a prototype helps stakeholders approve designs and support next steps.
-
-## What usability issues can a clickable prototype reveal that a static wireframe cannot?
-
-- Navigation problems: Whether users can easily move between screens or get stuck in loops.
-
-- Interactive element clarity: If buttons, links, or controls are obvious and behave as expected.
-
-- User flow efficiency: How smoothly users complete tasks and whether steps are intuitive or confusing.
-
-- Feedback and states: How well the interface communicates changes (e.g., button pressed, loading states, error messages).
-
-- Discoverability of features: Whether users notice and understand interactive elements or hidden menus.
-
-- Timing and pacing: Whether transitions or animations impact user understanding or cause frustration.
-
-- Error handling: How users recover from mistakes or invalid inputs.
-
-- Responsiveness: How the interface reacts to different inputs or screen sizes (if the prototype supports this).
-
-## How can prototyping help designers communicate ideas more clearly to developers?
-
-- Demonstrates functionality: Instead of describing interactions in words, prototypes show exactly how buttons, menus, and workflows work.
-
-- Clarifies user flows: Developers can see the sequence of screens and how users move through the app, reducing misunderstandings.
-
-- Highlights edge cases: Prototypes can include states like errors, loading screens, or empty states that need to be handled.
-
-- Shows animations and transitions: Helps developers understand timing and behavior that are hard to explain with static specs.
-
-- Provides a shared reference: Serves as a single source of truth that both designers and developers can refer to throughout development.
-
-- Speeds up feedback loops: Developers can test interactions early and ask questions before coding starts.
-
-- Reduces assumptions: Minimizes guesswork about intended design details and user experience.
-
-## What are common mistakes designers make when creating prototypes?
-
-- Overcomplicating early prototypes: Adding too much detail or interaction too soon, which can slow down iteration and obscure core usability issues.
-
-- Ignoring user goals: Focusing on flashy features instead of testing real user tasks and flows.
-
-- Skipping key interactions: Leaving out important buttons, navigation, or error states that affect usability.
-
-- Not testing with real users: Failing to validate the prototype with actual users, relying only on internal feedback.
-
-- Using unrealistic content: Placeholder text or images that don’t reflect real scenarios, which can confuse testers.
-
-- Neglecting accessibility: Overlooking keyboard navigation, screen reader compatibility, or color contrast.
-
-- Not updating prototypes after feedback: Treating prototypes as static rather than evolving them based on user and stakeholder input.
-
-- Poor organization: Having messy or unlinked screens that make the prototype hard to navigate.
-
-- Relying solely on prototypes: Forgetting to supplement with documentation or annotations for developers.
-
-## Task
-
-Using the low fidelity prototype I designed earlier that got approved by my supervisor, I moved on to designing a clickable prototype. The link to my figma design can be found here:
-
-https://www.figma.com/design/Ao9BH0MbUsXtFwwOoEIvZX/Focus-Bear-App?node-id=224-364&t=5wqn8UCyoPD5GJx9-0
-
-I submitted my design on our Discord group requesting for feedback:
-
-![Screenshot of my discord message asking for feedback](image-25.png)
-
-I received multiple comments with feedback as shown below:
-
-![Screenshot of comment icons](image-26.png)
-
-In the stand-up meeting, my supervisor approved my design and said I can move on to a high fidelity design. The image below shows the AI notetaker's notes on my work.
-
-![Screenshot of instructions given to me](image-27.png)
-
-This confirms that my supervisor has approved of my work and now I will start working on a high fidelity prototype.
+---
