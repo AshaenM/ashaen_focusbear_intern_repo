@@ -132,4 +132,11 @@ This confirmed that the supervisor was happy with my work and that I can move on
 The link to my Figma design can be found here:
 https://www.figma.com/design/Ao9BH0MbUsXtFwwOoEIvZX/Focus-Bear-App?node-id=0-1&t=FxAM7InDpLXCfMQR-1
 
+## Reflection  
+I found that starting with low-fi wireframes made it much easier to explore options without overthinking details. Moving from the first to second iteration, I saw how even small tweaks based on supervisor feedback improved usability. What stood out was how feedback was clearer when the design was kept simple.  
+
+If I had jumped straight into high-fidelity, the discussion would likely have focused on colors or fonts instead of structure. Using low-fi first helped avoid that and gave me confidence that the foundation of the design was solid before investing in polish.  
+
+For my own workflow, I plan to always keep wireframes lightweight at the start, then iterate quickly with feedback. This approach will save time and help me catch usability issues early.  
+
 
