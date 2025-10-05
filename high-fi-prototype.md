@@ -197,3 +197,28 @@ High-fidelity prototypes play a key role in bridging the gap between design and 
 
 - Example: Graying out a “Submit” button until a form is complete prevents premature submissions.
 
+## Task
+
+1. I converted my clickable prototype into a high-fi design by adding colours and fonts as shown in the below screenshot:
+
+![Screenshot of my high-fi prototype](image-31.png)
+
+It was important it matched the color scheme of the app. I submitted my design and I got feedback as shown below:
+
+![Feedback after first high-fi design](image-32.png)
+
+To address the feedback, I redesigned the settings page by categorising and grouping the top level elements and ended up with the following design:
+
+![Screen of high-fi design](image-33.png)
+
+I received comments on Figma as shown below:
+
+![Figma Comments](image-34.png)
+
+I addressed the feedback by tweaking minor UI changes and in the following meeting, I got this feedback:
+
+![Feedback after second high-fi design](image-35.png)
+
+It was mentioned that a mobile developer was also working on this and has a completed version. Hence, once I implement my changes to what the developer has, this high-fi design would be approved. Since this is my last week of the internship, I won't have time to have it approved hence I have provided what it would be like for the high-fi design to be approved.
+
+Figma Link: https://www.figma.com/design/Ao9BH0MbUsXtFwwOoEIvZX/Focus-Bear-App?node-id=565-847&t=L3DOlWcmOSWrAeuW-1
